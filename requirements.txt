@@ -1,0 +1,10 @@
+dj-database-url
+Django
+django-cors-headers
+django-rest-authemail
+djangorestframework
+drf-yasg
+Jinja2
+Markdown
+MarkupSafe
+python-decouple
